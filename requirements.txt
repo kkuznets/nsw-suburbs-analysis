@@ -1,0 +1,12 @@
+GeoAlchemy2==0.12.5
+geopandas==0.12.2
+keplergl==0.3.2
+numpy==1.24.1
+pandas==1.5.2
+plotly==5.11.0
+psycopg2==2.9.3
+scikit_learn==1.2.0
+scipy==1.10.0
+shapely==2.0.0
+SQLAlchemy==1.4.46
+statsmodels==0.13.5
