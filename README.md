@@ -15,3 +15,9 @@
 Check out the ```requirements.txt``` file to see the list of required Python libraries and their versions.
 
 You are recommended to spun up your own instance of PostgreSQL database with a POSTGIS extension but you are welcome to use the one included in the scripts.
+
+## Running the notebook
+
+Open the ```Analysis.ipynb``` file in your jupyter notebooks editor of choice and simply run all the cells.
+
+To simply view the final visualisation, open the file ```Map Visualisation.html```.
